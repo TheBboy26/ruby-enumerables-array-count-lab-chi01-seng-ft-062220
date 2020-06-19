@@ -1,5 +1,7 @@
 def count_strings(array)
-  array = [ "hello",  "world"]
+  total = 0
+
+
 end
   print count_strings
 
